@@ -7,4 +7,4 @@ Each item in the index is linked to the corresponding md file in /lectures folde
 - Introduction
 - What Are Design Fundamentals?
 - [Client—Server Model](./lectures/lecture-03-client-server-model.md)
-- [Network Protocols](./lectures/lecture-04-network-protocols.md);
+- [Network Protocols](./lectures/lecture-04-network-protocols.md)

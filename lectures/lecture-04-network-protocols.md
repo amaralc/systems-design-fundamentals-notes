@@ -6,8 +6,8 @@ Lecture Source: https://www.algoexpert.io/systems/fundamentals
 ## Statistics
 
 - Video duration: 00h28m33s
-- Total duration:  (video + notes + structure);
-- Ratio:
+- Total duration: 01h09m00s (video + notes + structure);
+- Ratio: 2.4/1
 
 
 ## Notes
